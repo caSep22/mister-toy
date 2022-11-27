@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Ball - atlas",
+        "price": 155,
+        "labels": ["Outdoor", "Baby"],
+        "createdAt": 1657550091462.0,
+        "inStock": true,
+        "reviews": ["This toy is very good!!!", "Good quality"]
+    },
+    {
+        "name": "Talking Doll - atlas",
+        "price": 247.0,
+        "labels": ["Doll", "Battery Powered", "Baby"],
+        "createdAt": 1657550191462.0,
+        "inStock": true,
+        "reviews": ["This toy is bad!!!", "Good quality"]
+    },
+    {
+        "name": "Bicycle - atlas",
+        "price": 212,
+        "labels": ["Outdoor", "On wheels"],
+        "createdAt": 1657540091462.0,
+        "inStock": true,
+        "reviews": ["This bike is very good!", "Didn`t liked"]
+    },
+    {
+        "name": "Car",
+        "price": 350,
+        "labels": ["Art", "Puzzle", "Box game"],
+        "createdAt": 1657651548477.0,
+        "inStock": true,
+        "reviews": ["Didn`t liked"]
+    },
+    {
+        "name": "Pazzle",
+        "price": 217,
+        "labels": ["Battery Powered", "Outdoor"],
+        "createdAt": 1657652747640.0,
+        "inStock": false,
+        "reviews": []
+    },
+    {
+        "name": "Bear",
+        "price": 555,
+        "labels": ["Box game", "Doll", "Outdoor"],
+        "createdAt": "",
+        "inStock": false,
+        "reviews": []
+    }
+]
